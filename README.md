@@ -5,6 +5,7 @@ Install:
 
 Snapshot：
     给出一些测试效果图。
+
      ![image](https://github.com/baiyang/opengl/raw/master/imgs/example1.png)
      ![image](https://github.com/baiyang/opengl/raw/master/imgs/example2.png)
      ![image](https://github.com/baiyang/opengl/raw/master/imgs/example3.png)
