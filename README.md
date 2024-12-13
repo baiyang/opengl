@@ -1,11 +1,6 @@
-About Me：
-
-    Author: baiyang Email: ubaiyang@gmail.com Website: http://www.ibaiyang.org
-
 Introduction：
 
     用openGL实现从三维点到屏幕坐标的映射，以达到拾取三维点的目的，可以精确的选中三维世界中的物体。
-    具体请看我的博客：http://www.ibaiyang.org/2012/11/14/opengl-select-3d-points/
 	
 	tools文件下，包含常用的类代码，可以借鉴；目前包括
 	获取windows下精确的时间；
